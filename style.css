@@ -21,6 +21,10 @@ h2 {
     padding-bottom: 5px;
     border-bottom: 1px solid #ebebeb;
 }
+.profile-img {
+    float: left;
+    display: inline;
+}
 .name-text {
     font-size: 16px;
     color: #7c7c7c;
@@ -76,10 +80,25 @@ section {
 .sns-wrap {
     text-align: right;
 }
-.profile-img {
-    float: left;
-    display: inline;
+.sns-wrap a{
+    text-decoration: none;
 }
+.score{
+    font-size: 10px;
+    margin-left:100px;
+}
+.sec-left{
+    float:left;
+    width:400px;
+}
+.sec-right{
+    float:right;
+    width:200px;
+}
+.sec-clear{
+    clear:both;
+}
+
 footer {
     text-align: center;
     background-color: #1e1e1e;
