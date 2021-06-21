@@ -1,4 +1,4 @@
-## UiUxDesign2021
+## UiUx2021
 ### 2021-1학기 UIUX 수업때 했던 프로젝트 종합 Repository입니다.
 - resume(이력서 만들기-4.19) : https://chj367.github.io/resume/
 - lotto(로또 번호 추첨기-5.3) : https://chj367.github.io/lotto/
