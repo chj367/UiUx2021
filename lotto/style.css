@@ -1,0 +1,32 @@
+.ball{
+    float: left;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;  /* 수직 가운데 */
+    font-size: 28px;
+    border-radius: 100%;
+    text-align: center;  /* 수평 가운데 */
+    color: #fff;
+    font-weight: 500;
+    margin-right: 6px;
+    text-shadow: 0px 0px 3px rgba(73,57,0,0.8);
+}
+
+.ball1{
+    background: #fbc400;
+}
+.ball2{
+    background: #afd532;
+}
+.ball3{
+    background: #395cca;
+}
+.ball4{
+    background: #659caa;
+}
+.ball5{
+    background: #952abb;
+}
+.ball6{
+    background: #333;    
+}
